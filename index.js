@@ -44,4 +44,6 @@ console.log(superheroines);
 
 
 var arr=["laskdjf","lksdjf","alsdkjf"]
-console.log(arr)
+var arr1=[...arr, "llllll"]
+
+console.log(arr1)
