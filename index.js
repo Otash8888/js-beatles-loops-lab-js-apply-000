@@ -47,3 +47,11 @@ var arr=["laskdjf","lksdjf","alsdkjf"]
 var arr1=[...arr, "llllll"]
 
 console.log(arr1)
+
+
+	var cats = ["Milo", "Garfield", "Otis"]
+	 
+	var cats2 = cats.slice(1) // ["Garfield", "Otis"]
+	 
+	cats // ["Milo", "Garfield", "Otis"]
+
