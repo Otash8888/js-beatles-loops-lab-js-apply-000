@@ -54,4 +54,5 @@ console.log(arr1)
 	var cats2 = cats.slice(1) // ["Garfield", "Otis"]
 	 
 	cats // ["Milo", "Garfield", "Otis"]
+console.log(cats2)
 
