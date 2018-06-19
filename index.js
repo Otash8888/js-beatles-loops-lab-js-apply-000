@@ -29,24 +29,11 @@ function iLoveTheBeatles (n){
   return newArr
 } */
 
-
-function iLoveTheBeatles (n){
- 
- var newArr=[];
- var l=n;
- 
-  do{
-    newArr[l-1]= "I love the Beatles!"
-
-    --l
-  } 
-  while (n<15)
-  return newArr
-}
-
-
-
-
+	var superheroines = ["catwoman", "she-hulk", "mystique"];
+	 
+	superheroines.push("wonder woman");
+	// superheroines is now ["catwoman", "she-hulk", "mystique", "wonder woman"]
+console.log(superheroines.push("wonder woman"));
 
 
 
