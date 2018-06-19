@@ -33,7 +33,7 @@ function iLoveTheBeatles (n){
 	 
 	superheroines.push("wonder woman");
 	// superheroines is now ["catwoman", "she-hulk", "mystique", "wonder woman"]
-console.log(superheroines.push("wonder woman"));
+console.log(superheroines);
 
 
 
