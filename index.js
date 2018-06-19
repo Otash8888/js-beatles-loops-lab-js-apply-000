@@ -43,3 +43,5 @@ console.log(superheroines);
 	console.log(cities)
 
 
+var arr=["laskdjf";"lksdjf";"alsdkjf"]
+console.log(arr)
