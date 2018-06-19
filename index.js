@@ -56,4 +56,5 @@ console.log(arr1)
 
 	cats // ["Milo", "Garfield", "Otis"]
 console.log(cats2)
+console.log(cats3)
 
