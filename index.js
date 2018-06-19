@@ -49,10 +49,10 @@ var arr1=[...arr, "llllll"]
 console.log(arr1)
 
 
-	var cats = ["Milo", "Garfield", "Otis"]
-	 
-	var cats2 = cats.slice(1) // ["Garfield", "Otis"]
-	 
+	var cats = ["Milo", "Garfield", "Otis","lskdjf","kkkkkkk"]
+	
+	var cats2 = cats.slice(-1) // ["Garfield", "Otis"]
+	
 	cats // ["Milo", "Garfield", "Otis"]
 console.log(cats2)
 
