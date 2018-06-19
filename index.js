@@ -51,7 +51,7 @@ console.log(arr1)
 
 	var cats = ["Milo", "Garfield", "Otis","lskdjf","kkkkkkk"]
 	
-	var cats2 = cats.slice(1,3) 
+	var cats2 = cats.slice(3) 
 		var cats3 = cats.slice(1,-2) 
 
 	cats // ["Milo", "Garfield", "Otis"]
